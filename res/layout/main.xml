@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="#ffffff">
+    <TextView
+            android:id="@+id/tv_share"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/textview_seletor"
+            android:text="分享给好友"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:textColor="@drawable/textview_color_selector"
+            android:layout_marginTop="100dp"
+            />
+</RelativeLayout>
+
